@@ -1,0 +1,6 @@
+flask
+google-genai
+supabase
+python-dotenv
+gunicorn
+PyJWT
